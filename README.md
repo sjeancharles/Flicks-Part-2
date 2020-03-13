@@ -27,7 +27,7 @@ Time spent: **14** hours spent in total
 <img src="FlixterLan[1].gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+This project is very instructive, I learned a lot, I didn't have a lot of difficulties.  The only challenges I've had are with the Heterogenous RecyclerViews, because I haven't mastered them yet.
 
 ### Open-source libraries used
 
