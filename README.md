@@ -23,6 +23,7 @@ Time spent: **14** hours spent in total
 <img src="FlixterApp[1].gif" width=250><br>
 
 **Landscape Mode**
+
 <img src="FlixterLan[1].gif" width=250><br>
 
 ### Notes
