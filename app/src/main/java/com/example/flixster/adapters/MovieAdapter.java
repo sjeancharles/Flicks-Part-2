@@ -93,12 +93,9 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> 
 
 
 
-            RequestOptions options = new RequestOptions()
-                    .placeholder(R.drawable.loading);
-            Glide.with(context)
-                   .load(imageUrl)
-                   //.placeholder(R.drawable.ic_launcher_foreground)
-                   .into(ivPoster);
+            //RequestOptions options = new RequestOptions()
+                    //.placeholder(R.drawable.loading);
+            Glide.with(context).load(imageUrl).apply(new RequestOptions().placeholder(R.drawable.loading)).into(ivPoster);
             //
             container.setOnClickListener(new View.OnClickListener() {
                 @Override
