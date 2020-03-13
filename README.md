@@ -20,7 +20,7 @@ Time spent: **14** hours spent in total
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-<img src="FlixsterApp[1].gif" width=250><br>
+<img src="FlixterApp[1].gif" width=250><br>
 
 **Landscape Mode**
 <img src="FlixterLan[1].gif" width=250><br>
