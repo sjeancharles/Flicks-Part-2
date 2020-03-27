@@ -2,6 +2,10 @@
 
 ### User Stories
 
+Submitted by: **Schadrac Jean Charles**
+
+Time spent: **6** hours spent in total
+
 #### REQUIRED (10pts)
 
 - [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
@@ -18,7 +22,7 @@
 
 ### App Walkthough GIF
 
-
+![Todo App Walkthrough](https://i.imgur.com/ydtzTyR.gif)
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
