@@ -22,8 +22,7 @@ Time spent: **6** hours spent in total
 
 ### App Walkthough GIF
 
-[Flicks_Part_2](https://i.imgur.com/ydtzTyR.gif)
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="Flicks_part_2[1].gif" width=250><br>
 
 ### Notes
 
