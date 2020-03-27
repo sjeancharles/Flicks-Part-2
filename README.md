@@ -22,7 +22,7 @@ Time spent: **6** hours spent in total
 
 ### App Walkthough GIF
 
-![Todo App Walkthrough](https://i.imgur.com/ydtzTyR.gif)
+[Flicks_Part_2](https://i.imgur.com/ydtzTyR.gif)
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
